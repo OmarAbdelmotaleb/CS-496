@@ -1,0 +1,9 @@
+2021-04-28T21:55:19+00:00 box#05 I: Start test suite:4:deref2.
+2021-04-28T21:55:19+00:00 box#05 I: Test suite:4:deref2 is successful.
+2021-04-28T21:55:19+00:00 box#05 I: End test suite:4:deref2.
+2021-04-28T21:55:19+00:00 box#05 I: Start test suite:11:pair_bool_int .
+2021-04-28T21:55:19+00:00 box#05 I: Test suite:11:pair_bool_int  is successful.
+2021-04-28T21:55:19+00:00 box#05 I: End test suite:11:pair_bool_int .
+2021-04-28T21:55:19+00:00 box#05 I: Start test suite:19:empty_tree .
+2021-04-28T21:55:19+00:00 box#05 I: Test suite:19:empty_tree  is successful.
+2021-04-28T21:55:19+00:00 box#05 I: End test suite:19:empty_tree .

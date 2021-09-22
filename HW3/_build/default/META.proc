@@ -1,0 +1,6 @@
+description = "Interpreter for PROC"
+requires = ""
+archive(byte) = "proc.cma"
+archive(native) = "proc.cmxa"
+plugin(byte) = "proc.cma"
+plugin(native) = "proc.cmxs"

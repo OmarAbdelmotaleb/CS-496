@@ -1,0 +1,12 @@
+2021-04-28T21:55:19+00:00 box#01 I: Start test suite:0:newref1.
+2021-04-28T21:55:19+00:00 box#01 I: Test suite:0:newref1 is successful.
+2021-04-28T21:55:19+00:00 box#01 I: End test suite:0:newref1.
+2021-04-28T21:55:19+00:00 box#01 I: Start test suite:8:pair_proc .
+2021-04-28T21:55:19+00:00 box#01 I: Test suite:8:pair_proc  is successful.
+2021-04-28T21:55:19+00:00 box#01 I: End test suite:8:pair_proc .
+2021-04-28T21:55:19+00:00 box#01 I: Start test suite:15:list_of_list_let_int .
+2021-04-28T21:55:19+00:00 box#01 I: Test suite:15:list_of_list_let_int  is successful.
+2021-04-28T21:55:19+00:00 box#01 I: End test suite:15:list_of_list_let_int .
+2021-04-28T21:55:19+00:00 box#01 I: Start test suite:23:get_lst .
+2021-04-28T21:55:19+00:00 box#01 I: Test suite:23:get_lst  is successful.
+2021-04-28T21:55:19+00:00 box#01 I: End test suite:23:get_lst .

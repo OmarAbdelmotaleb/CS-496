@@ -1,0 +1,12 @@
+2021-04-28T21:55:19+00:00 box#02 I: Start test suite:1:newref2.
+2021-04-28T21:55:19+00:00 box#02 I: Test suite:1:newref2 is successful.
+2021-04-28T21:55:19+00:00 box#02 I: End test suite:1:newref2.
+2021-04-28T21:55:19+00:00 box#02 I: Start test suite:14:single_ele_bool .
+2021-04-28T21:55:19+00:00 box#02 I: Test suite:14:single_ele_bool  is successful.
+2021-04-28T21:55:19+00:00 box#02 I: End test suite:14:single_ele_bool .
+2021-04-28T21:55:19+00:00 box#02 I: Start test suite:16:null_list .
+2021-04-28T21:55:19+00:00 box#02 I: Test suite:16:null_list  is successful.
+2021-04-28T21:55:19+00:00 box#02 I: End test suite:16:null_list .
+2021-04-28T21:55:19+00:00 box#02 I: Start test suite:22:get_data_tree .
+2021-04-28T21:55:19+00:00 box#02 I: Test suite:22:get_data_tree  is successful.
+2021-04-28T21:55:19+00:00 box#02 I: End test suite:22:get_data_tree .

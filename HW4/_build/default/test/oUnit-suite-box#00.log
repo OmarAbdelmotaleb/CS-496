@@ -1,0 +1,202 @@
+2021-04-28T21:55:19+00:00 box#00 I: Runner: processes
+2021-04-28T21:55:19+00:00 box#00 I: Chooser: simple
+2021-04-28T21:55:19+00:00 box#00 I: Configuration suite_name = "suite"
+2021-04-28T21:55:19+00:00 box#00 I: Configuration cache_filename = "/mnt/shared/CS-496/HW4/_build/default/test/oUnit-$(suite_name).cache"
+2021-04-28T21:55:19+00:00 box#00 I: Configuration run_gc_full_major = "true"
+2021-04-28T21:55:19+00:00 box#00 I: Configuration display = "true"
+2021-04-28T21:55:19+00:00 box#00 I: Configuration results_style_1_X = "false"
+2021-04-28T21:55:19+00:00 box#00 I: Configuration testdata_dir = "none"
+2021-04-28T21:55:19+00:00 box#00 I: Configuration health_check_interval = "1."
+2021-04-28T21:55:19+00:00 box#00 I: Configuration verbose = "false"
+2021-04-28T21:55:19+00:00 box#00 I: Configuration chooser = "simple"
+2021-04-28T21:55:19+00:00 box#00 I: Configuration output_html_dir = "none"
+2021-04-28T21:55:19+00:00 box#00 I: Configuration processes_kill_period = "5."
+2021-04-28T21:55:19+00:00 box#00 I: Configuration runner = "processes"
+2021-04-28T21:55:19+00:00 box#00 I: Configuration shards = "8"
+2021-04-28T21:55:19+00:00 box#00 I: Configuration processes_grace_period = "5."
+2021-04-28T21:55:19+00:00 box#00 I: Configuration log_encoding = "utf-8"
+2021-04-28T21:55:19+00:00 box#00 I: Configuration output_junit_file = "none"
+2021-04-28T21:55:19+00:00 box#00 I: Configuration ci = "false"
+2021-04-28T21:55:19+00:00 box#00 I: Configuration output_file = "/mnt/shared/CS-496/HW4/_build/default/test/oUnit-$(suite_name)-$(shard_id).log"
+2021-04-28T21:55:19+00:00 box#00 I: Using 8 workers maximum.
+2021-04-28T21:55:19+00:00 box#00 I: Starting worker number box#01.
+2021-04-28T21:55:19+00:00 box#00 I: Worker box#01 started.
+2021-04-28T21:55:19+00:00 box#00 I: Starting worker number box#02.
+2021-04-28T21:55:19+00:00 box#00 I: Worker box#02 started.
+2021-04-28T21:55:19+00:00 box#00 I: Starting worker number box#03.
+2021-04-28T21:55:19+00:00 box#00 I: Worker box#03 started.
+2021-04-28T21:55:19+00:00 box#00 I: Starting worker number box#04.
+2021-04-28T21:55:19+00:00 box#00 I: Worker box#04 started.
+2021-04-28T21:55:19+00:00 box#00 I: Starting worker number box#05.
+2021-04-28T21:55:19+00:00 box#00 I: Worker box#05 started.
+2021-04-28T21:55:19+00:00 box#00 I: Starting worker number box#06.
+2021-04-28T21:55:19+00:00 box#00 I: Worker box#06 started.
+2021-04-28T21:55:19+00:00 box#00 I: Starting worker number box#07.
+2021-04-28T21:55:19+00:00 box#00 I: Worker box#07 started.
+2021-04-28T21:55:19+00:00 box#00 I: Starting worker number box#08.
+2021-04-28T21:55:19+00:00 box#00 I: Worker box#08 started.
+2021-04-28T21:55:19+00:00 box#00 I: 8 tests running: suite:7:pair3 , suite:6:pair2 , suite:5:pair1 , suite:4:deref2, suite:3:deref1, suite:2:setref1, suite:1:newref2, suite:0:newref1.
+2021-04-28T21:55:19+00:00 box#01 I: Start test suite:0:newref1.
+2021-04-28T21:55:19+00:00 box#02 I: Start test suite:1:newref2.
+2021-04-28T21:55:19+00:00 box#03 I: Start test suite:2:setref1.
+2021-04-28T21:55:19+00:00 box#04 I: Start test suite:3:deref1.
+2021-04-28T21:55:19+00:00 box#05 I: Start test suite:4:deref2.
+2021-04-28T21:55:19+00:00 box#06 I: Start test suite:5:pair1 .
+2021-04-28T21:55:19+00:00 box#07 I: Start test suite:6:pair2 .
+2021-04-28T21:55:19+00:00 box#00 I: 8 tests running: suite:7:pair3 , suite:6:pair2 , suite:5:pair1 , suite:4:deref2, suite:3:deref1, suite:2:setref1, suite:1:newref2, suite:0:newref1.
+2021-04-28T21:55:19+00:00 box#01 I: Test suite:0:newref1 is successful.
+2021-04-28T21:55:19+00:00 box#00 I: 8 tests running: suite:7:pair3 , suite:6:pair2 , suite:5:pair1 , suite:4:deref2, suite:3:deref1, suite:2:setref1, suite:1:newref2, suite:0:newref1.
+2021-04-28T21:55:19+00:00 box#01 I: End test suite:0:newref1.
+2021-04-28T21:55:19+00:00 box#02 I: Test suite:1:newref2 is successful.
+2021-04-28T21:55:19+00:00 box#03 I: Test suite:2:setref1 is successful.
+2021-04-28T21:55:19+00:00 box#04 I: Test suite:3:deref1 is successful.
+2021-04-28T21:55:19+00:00 box#05 I: Test suite:4:deref2 is successful.
+2021-04-28T21:55:19+00:00 box#06 I: Test suite:5:pair1  is successful.
+2021-04-28T21:55:19+00:00 box#07 I: Test suite:6:pair2  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: 8 tests running: suite:7:pair3 , suite:6:pair2 , suite:5:pair1 , suite:4:deref2, suite:3:deref1, suite:2:setref1, suite:1:newref2, suite:0:newref1.
+2021-04-28T21:55:19+00:00 box#02 I: End test suite:1:newref2.
+2021-04-28T21:55:19+00:00 box#03 I: End test suite:2:setref1.
+2021-04-28T21:55:19+00:00 box#04 I: End test suite:3:deref1.
+2021-04-28T21:55:19+00:00 box#05 I: End test suite:4:deref2.
+2021-04-28T21:55:19+00:00 box#06 I: End test suite:5:pair1 .
+2021-04-28T21:55:19+00:00 box#07 I: End test suite:6:pair2 .
+2021-04-28T21:55:19+00:00 box#00 I: 8 tests running: suite:8:pair_proc , suite:7:pair3 , suite:6:pair2 , suite:5:pair1 , suite:4:deref2, suite:3:deref1, suite:2:setref1, suite:1:newref2.
+2021-04-28T21:55:19+00:00 box#00 I: 8 tests running: suite:14:single_ele_bool , suite:13:single_ele_int , suite:12:emptylist , suite:11:pair_bool_int , suite:10:unpair_proc , suite:9:unpair1 , suite:8:pair_proc , suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#01 I: Start test suite:8:pair_proc .
+2021-04-28T21:55:19+00:00 box#07 I: Start test suite:9:unpair1 .
+2021-04-28T21:55:19+00:00 box#06 I: Start test suite:10:unpair_proc .
+2021-04-28T21:55:19+00:00 box#05 I: Start test suite:11:pair_bool_int .
+2021-04-28T21:55:19+00:00 box#00 I: 8 tests running: suite:14:single_ele_bool , suite:13:single_ele_int , suite:12:emptylist , suite:11:pair_bool_int , suite:10:unpair_proc , suite:9:unpair1 , suite:8:pair_proc , suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#01 I: Test suite:8:pair_proc  is successful.
+2021-04-28T21:55:19+00:00 box#04 I: Start test suite:12:emptylist .
+2021-04-28T21:55:19+00:00 box#03 I: Start test suite:13:single_ele_int .
+2021-04-28T21:55:19+00:00 box#02 I: Start test suite:14:single_ele_bool .
+2021-04-28T21:55:19+00:00 box#00 I: 8 tests running: suite:14:single_ele_bool , suite:13:single_ele_int , suite:12:emptylist , suite:11:pair_bool_int , suite:10:unpair_proc , suite:9:unpair1 , suite:8:pair_proc , suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#08 I: Start test suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#01 I: End test suite:8:pair_proc .
+2021-04-28T21:55:19+00:00 box#07 I: Test suite:9:unpair1  is successful.
+2021-04-28T21:55:19+00:00 box#05 I: Test suite:11:pair_bool_int  is successful.
+2021-04-28T21:55:19+00:00 box#04 I: Test suite:12:emptylist  is successful.
+2021-04-28T21:55:19+00:00 box#03 I: Test suite:13:single_ele_int  is successful.
+2021-04-28T21:55:19+00:00 box#02 I: Test suite:14:single_ele_bool  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: 8 tests running: suite:14:single_ele_bool , suite:13:single_ele_int , suite:12:emptylist , suite:11:pair_bool_int , suite:10:unpair_proc , suite:9:unpair1 , suite:8:pair_proc , suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#07 I: End test suite:9:unpair1 .
+2021-04-28T21:55:19+00:00 box#06 I: Test suite:10:unpair_proc  is successful.
+2021-04-28T21:55:19+00:00 box#05 I: End test suite:11:pair_bool_int .
+2021-04-28T21:55:19+00:00 box#04 I: End test suite:12:emptylist .
+2021-04-28T21:55:19+00:00 box#03 I: End test suite:13:single_ele_int .
+2021-04-28T21:55:19+00:00 box#02 I: End test suite:14:single_ele_bool .
+2021-04-28T21:55:19+00:00 box#00 I: 8 tests running: suite:15:list_of_list_let_int , suite:14:single_ele_bool , suite:13:single_ele_int , suite:12:emptylist , suite:11:pair_bool_int , suite:10:unpair_proc , suite:9:unpair1 , suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#06 I: End test suite:10:unpair_proc .
+2021-04-28T21:55:19+00:00 box#00 I: 8 tests running: suite:20:null_tree , suite:19:empty_tree , suite:18:tl_list_int , suite:17:hd_list_int , suite:16:null_list , suite:15:list_of_list_let_int , suite:10:unpair_proc , suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#01 I: Start test suite:15:list_of_list_let_int .
+2021-04-28T21:55:19+00:00 box#02 I: Start test suite:16:null_list .
+2021-04-28T21:55:19+00:00 box#04 I: Start test suite:18:tl_list_int .
+2021-04-28T21:55:19+00:00 box#00 I: 8 tests running: suite:21:not_null_tree , suite:20:null_tree , suite:19:empty_tree , suite:18:tl_list_int , suite:17:hd_list_int , suite:16:null_list , suite:15:list_of_list_let_int , suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#01 I: Test suite:15:list_of_list_let_int  is successful.
+2021-04-28T21:55:19+00:00 box#02 I: Test suite:16:null_list  is successful.
+2021-04-28T21:55:19+00:00 box#03 I: Start test suite:17:hd_list_int .
+2021-04-28T21:55:19+00:00 box#05 I: Start test suite:19:empty_tree .
+2021-04-28T21:55:19+00:00 box#07 I: Start test suite:20:null_tree .
+2021-04-28T21:55:19+00:00 box#00 I: 8 tests running: suite:21:not_null_tree , suite:20:null_tree , suite:19:empty_tree , suite:18:tl_list_int , suite:17:hd_list_int , suite:16:null_list , suite:15:list_of_list_let_int , suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#01 I: End test suite:15:list_of_list_let_int .
+2021-04-28T21:55:19+00:00 box#02 I: End test suite:16:null_list .
+2021-04-28T21:55:19+00:00 box#03 I: Test suite:17:hd_list_int  is successful.
+2021-04-28T21:55:19+00:00 box#04 I: Test suite:18:tl_list_int  is successful.
+2021-04-28T21:55:19+00:00 box#05 I: Test suite:19:empty_tree  is successful.
+2021-04-28T21:55:19+00:00 box#07 I: Test suite:20:null_tree  is successful.
+2021-04-28T21:55:19+00:00 box#06 I: Start test suite:21:not_null_tree .
+2021-04-28T21:55:19+00:00 box#00 I: 8 tests running: suite:21:not_null_tree , suite:20:null_tree , suite:19:empty_tree , suite:18:tl_list_int , suite:17:hd_list_int , suite:16:null_list , suite:15:list_of_list_let_int , suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#03 I: End test suite:17:hd_list_int .
+2021-04-28T21:55:19+00:00 box#04 I: End test suite:18:tl_list_int .
+2021-04-28T21:55:19+00:00 box#05 I: End test suite:19:empty_tree .
+2021-04-28T21:55:19+00:00 box#07 I: End test suite:20:null_tree .
+2021-04-28T21:55:19+00:00 box#06 I: Test suite:21:not_null_tree  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: 8 tests running: suite:23:get_lst , suite:22:get_data_tree , suite:21:not_null_tree , suite:20:null_tree , suite:19:empty_tree , suite:18:tl_list_int , suite:17:hd_list_int , suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#06 I: End test suite:21:not_null_tree .
+2021-04-28T21:55:19+00:00 box#02 I: Start test suite:22:get_data_tree .
+2021-04-28T21:55:19+00:00 box#01 I: Start test suite:23:get_lst .
+2021-04-28T21:55:19+00:00 box#00 I: Still 5 tests running : suite:24:get_rst , suite:23:get_lst , suite:22:get_data_tree , suite:21:not_null_tree , suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#00 I: 5 tests running: suite:24:get_rst , suite:23:get_lst , suite:22:get_data_tree , suite:21:not_null_tree , suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#02 I: Test suite:22:get_data_tree  is successful.
+2021-04-28T21:55:19+00:00 box#01 I: Test suite:23:get_lst  is successful.
+2021-04-28T21:55:19+00:00 box#07 I: Start test suite:24:get_rst .
+2021-04-28T21:55:19+00:00 box#00 I: Still 4 tests running : suite:24:get_rst , suite:23:get_lst , suite:22:get_data_tree , suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#00 I: 4 tests running: suite:24:get_rst , suite:23:get_lst , suite:22:get_data_tree , suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#02 I: End test suite:22:get_data_tree .
+2021-04-28T21:55:19+00:00 box#01 I: End test suite:23:get_lst .
+2021-04-28T21:55:19+00:00 box#07 I: Test suite:24:get_rst  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Still 4 tests running : suite:24:get_rst , suite:23:get_lst , suite:22:get_data_tree , suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#00 I: 4 tests running: suite:24:get_rst , suite:23:get_lst , suite:22:get_data_tree , suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#07 I: End test suite:24:get_rst .
+2021-04-28T21:55:19+00:00 box#00 I: Still 2 tests running : suite:24:get_rst , suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#00 I: 2 tests running: suite:24:get_rst , suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#00 I: Still 1 tests running : suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#00 I: 1 tests running: suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#08 I: Test suite:7:pair3  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Still 1 tests running : suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#00 I: 1 tests running: suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#08 I: End test suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#00 I: Still 1 tests running : suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#00 I: 1 tests running: suite:7:pair3 .
+2021-04-28T21:55:19+00:00 box#00 I: 0 tests running: .
+2021-04-28T21:55:19+00:00 box#00 I: Worker box#03 has ended.
+2021-04-28T21:55:19+00:00 box#00 I: Worker box#04 has ended.
+2021-04-28T21:55:19+00:00 box#00 I: Worker box#05 has ended.
+2021-04-28T21:55:19+00:00 box#00 I: Worker box#06 has ended.
+2021-04-28T21:55:19+00:00 box#00 I: Worker box#02 has ended.
+2021-04-28T21:55:19+00:00 box#00 I: Worker box#01 has ended.
+2021-04-28T21:55:19+00:00 box#00 I: Worker box#07 has ended.
+2021-04-28T21:55:19+00:00 box#00 I: Worker box#08 has ended.
+2021-04-28T21:55:19+00:00 box#00 I: Used 8 worker during test execution.
+2021-04-28T21:55:19+00:00 box#00 I: Run 4 tests with shard box#07.
+2021-04-28T21:55:19+00:00 box#00 I: Run 1 tests with shard box#08.
+2021-04-28T21:55:19+00:00 box#00 I: Run 3 tests with shard box#03.
+2021-04-28T21:55:19+00:00 box#00 I: Run 3 tests with shard box#06.
+2021-04-28T21:55:19+00:00 box#00 I: Run 4 tests with shard box#02.
+2021-04-28T21:55:19+00:00 box#00 I: Run 4 tests with shard box#01.
+2021-04-28T21:55:19+00:00 box#00 I: Run 3 tests with shard box#04.
+2021-04-28T21:55:19+00:00 box#00 I: Run 3 tests with shard box#05.
+2021-04-28T21:55:19+00:00 box#00 I: Check health of shard box#07, 4 times.
+2021-04-28T21:55:19+00:00 box#00 I: Check health of shard box#08, 1 times.
+2021-04-28T21:55:19+00:00 box#00 I: Check health of shard box#03, 8 times.
+2021-04-28T21:55:19+00:00 box#00 I: Check health of shard box#06, 7 times.
+2021-04-28T21:55:19+00:00 box#00 I: Check health of shard box#02, 5 times.
+2021-04-28T21:55:19+00:00 box#00 I: Check health of shard box#01, 5 times.
+2021-04-28T21:55:19+00:00 box#00 I: Check health of shard box#05, 8 times.
+2021-04-28T21:55:19+00:00 box#00 I: Check health of shard box#04, 8 times.
+2021-04-28T21:55:19+00:00 box#00 I: ==============
+2021-04-28T21:55:19+00:00 box#00 I: Summary:
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:7:pair3  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:24:get_rst  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:23:get_lst  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:22:get_data_tree  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:21:not_null_tree  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:20:null_tree  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:19:empty_tree  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:18:tl_list_int  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:17:hd_list_int  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:16:null_list  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:15:list_of_list_let_int  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:10:unpair_proc  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:14:single_ele_bool  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:13:single_ele_int  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:12:emptylist  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:11:pair_bool_int  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:9:unpair1  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:8:pair_proc  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:6:pair2  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:5:pair1  is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:4:deref2 is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:3:deref1 is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:2:setref1 is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:1:newref2 is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Test suite:0:newref1 is successful.
+2021-04-28T21:55:19+00:00 box#00 I: Ran: 25 tests in: 0.13 seconds.
+2021-04-28T21:55:19+00:00 box#00 I: Cases: 25.
+2021-04-28T21:55:19+00:00 box#00 I: Tried: 25.
+2021-04-28T21:55:19+00:00 box#00 I: Errors: 0.
+2021-04-28T21:55:19+00:00 box#00 I: Failures: 0.
+2021-04-28T21:55:19+00:00 box#00 I: Skip: 0.
+2021-04-28T21:55:19+00:00 box#00 I: Todo: 0.
+2021-04-28T21:55:19+00:00 box#00 I: Timeout: 0.

@@ -1,0 +1,27 @@
+(lang dune 2.8)
+(name proc)
+(library
+ (name proc)
+ (kind normal)
+ (synopsis "Interpreter for PROC")
+ (archives (byte proc.cma) (native proc.cmxa))
+ (plugins (byte proc.cma) (native proc.cmxs))
+ (native_archives proc.a)
+ (main_module_name Proc)
+ (modes byte native)
+ (modules
+  (wrapped
+   (main_module_name Proc)
+   (modules
+    ((name Ast) (obj_name proc__Ast) (visibility public) (impl))
+    ((name Ds) (obj_name proc__Ds) (visibility public) (impl))
+    ((name Interp) (obj_name proc__Interp) (visibility public) (impl))
+    ((name Lexer) (obj_name proc__Lexer) (visibility public) (impl))
+    ((name Parser) (obj_name proc__Parser) (visibility public) (impl) (intf)))
+   (alias_module
+    (name Proc)
+    (obj_name proc)
+    (visibility public)
+    (kind alias)
+    (impl))
+   (wrapped true))))
